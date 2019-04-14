@@ -1,0 +1,21 @@
+{
+  "name": "g8-http-server",
+  "version": "0.0.1",
+  "description": "The G8 Local REST Dev Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "'http'",
+    "'rest'",
+    "'server'",
+    "'rna'",
+    "'g8'"
+  ],
+  "author": "Stefan Ianta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
