@@ -7,12 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/W3AI/G8-rest-dev"
+  },
   "keywords": [
-    "'http'",
-    "'rest'",
-    "'server'",
-    "'rna'",
-    "'g8'"
+    "http",
+    "rest",
+    "server",
+    "rna",
+    "g8"
   ],
   "author": "Stefan Ianta",
   "license": "MIT",
@@ -22,9 +26,5 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.11"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/W3AI/G8-rest-dev"
   }
 }
